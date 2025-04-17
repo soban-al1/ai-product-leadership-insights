@@ -10,7 +10,7 @@ Welcome to **AI Product Leadership Insights** — a curated repository of tutori
 
 ## 👤 About Me
 
-Hi, I’m [Your Name], a Senior Product Manager with a focus on AI, KYC, and scalable product growth. I created this repo to share what I’ve learned (and keep learning) while shipping intelligent, user-first products.
+Hi, I’m Soban Ali, a Senior Product Manager with a focus on AI, KYC, and scalable product growth. I created this repo to share what I’ve learned (and keep learning) while shipping intelligent, user-first products.
 
 ---
 
